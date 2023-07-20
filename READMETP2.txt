@@ -30,4 +30,5 @@ Por ultimo pero no menos importante, instale el gh-pages con sus respectivas mod
 para luego aplicar los comandos requeridos para el deploy por ej: npm run build seguido de npm run deploy
 
 Luego corregir problemas en la imagenes de carga.
-
+Fuente del Proyecto basado en:
+https://www.behance.net/gallery/150932989/Porfolio-Website
